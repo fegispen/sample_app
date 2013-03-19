@@ -1,0 +1,7 @@
+<%provide(:title, 'Contact Us') %>
+<!DOCTYPE html>
+<h1>Contact Us</h1>
+<p>
+	Contact us at the <a href="fegispen@gmail.com">email of Fiona G</a>.
+</p>
+
